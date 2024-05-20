@@ -50,7 +50,7 @@ Figure 11 - Backtrajectories.
 
 These are jupyter notebooks that allow you to recreate the analysis.
 
-calculate_INP_concentrations.ipynb - Calculate the INP concentrations and their errors.
+calculate_n_INP.ipynb - Calculate the INP concentrations and their errors.
 
 generate_size_distributions.ipynb - Generate aerosol size distributions based on an assumed refractive index for the aerosol. Use these to normalise the INP concentrations by aerosol size, surface area and volume.
 
