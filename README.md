@@ -40,18 +40,24 @@ Figure 07 - SEM analysis
 
 Figure 08 - Active site densities and comparison to other campaigns
 
-Figure 09 - Functional form fitting.
+Figure 09 - Variation of active site density and INP concentration with altitude 
 
-Figure 10 - Variation of active site density and INP concentration with altitude
+Figure 10 - Relative INP concentrations in flight c280
 
 Figure 11 - Backtrajectories.
+
+Figure A1 - As Figure 3, but with each individual sample noted.
+
+Figure A2 - As Figure 5, but with each individual sample noted.
+
+Figure B1 - Functional form fitting (using output from functional_forms_v2).
 
 ## Analysis
 
 These are jupyter notebooks that allow you to recreate the analysis.
 
-calculate_n_INP.ipynb - Calculate the INP concentrations and their errors.
+calculate_INP_concentrations.ipynb - Calculate the INP concentrations and their errors.
 
 generate_size_distributions.ipynb - Generate aerosol size distributions based on an assumed refractive index for the aerosol. Use these to normalise the INP concentrations by aerosol size, surface area and volume.
 
-functional_forms.ipynb - Uses a Latin hypercube method to find a best fit of a complex functional form to the data.
+functional_forms_v2.ipynb - Uses a Latin hypercube method to find a best fit of a complex functional form to the data.
