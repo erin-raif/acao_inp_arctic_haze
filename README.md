@@ -1,4 +1,4 @@
-# acao_inp_paper_fig_dev
+# acao_inp_arctic_haze
 A repository for the development of figures for the first paper. This contains all the code required to analyse the data and to obtain the figures in the paper.
 
 ## Requirements:
